@@ -1,0 +1,17 @@
+1.Linear Regression
+  *Without Cross_validation
+    error:4.2174
+  *With Cross_validation
+    error:4.31
+
+2.Decision Tree Regression
+  *Without Cross_validation #Overfitting
+    error:0.0000
+  *With Cross_validation
+    error:4.075
+    
+3.Random forest regression
+  *Without Cross_validation 
+    error:1.2625
+  *With Cross_validation
+    mean_error:3.3
